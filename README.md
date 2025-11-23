@@ -20,6 +20,6 @@ other things u might want:
 
 usage:
 
-1. drag and drop into ~/.config
+1. drag and drop into `~/.config`
 2. tweak keybinds/settings in `hyprland.conf` to ur liking
 3. thats all :>
