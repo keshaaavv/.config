@@ -23,3 +23,7 @@ usage:
 1. drag and drop into `~/.config`
 2. tweak keybinds/settings in `hypr/hyprland.conf` to ur liking
 3. thats all :>
+
+# note 
+
+- not all colors use matugen, you may have to manually tweak some; especially in waybar
