@@ -2,18 +2,19 @@
 
 config files for:
 
-- alacritty
-- fastfetch
-- hypridle
-- hyprland
-- hyprlock
-- kew
-- limine
-- mako
-- matugen
-- rofi
-- waybar
-- gtk 3 & 4 (literally just dark mode)
+- alacritty ; terminal emulator
+- fastfetch ; fetcher
+- hypridle ; idle plugin for hyprland
+- hyprland ; tiling wayland compositer
+- hyprlock ; lock plugin for hyprland
+- kew ; shell music player
+- limine ; bootloader
+- ly ; login manager
+- mako ; notification daemon
+- matugen ; color generator
+- rofi ; app launcher
+- waybar ; wayland taskbar 
+- gtk 3 & 4 (literally just dark mode) ; other GUIs.
 
 # other things u might want:
 
