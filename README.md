@@ -46,7 +46,7 @@ config files for:
 
 ### additional credits:
 
-- fastfetch dotfiles from DHH
+- fastfetch dotfiles from omarchy (bleh)
 - hyprland animations from HyDE project
 
 ## if u like my dots plz star :] ty
