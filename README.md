@@ -32,7 +32,7 @@ config files for:
 
 # note 
 
-- not all colors use matugen, you may have to manually tweak some; especially in waybar
+- not all colors use matugen, if you decide to change the wallpaper, you may have to manually tweak a lot ;-; sorry.
 - IF YOU USE LIMINE - go to the limine folder and follow the instructions in the .txt
   
 # todo
