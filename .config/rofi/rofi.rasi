@@ -62,7 +62,7 @@ window {
     width:      50%;
     padding:    7px;
     children:   [ horibox ];
-    border: 2px; 
+    border: 1px; 
 }
 horibox {
     orientation: horizontal;
