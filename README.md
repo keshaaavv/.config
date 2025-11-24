@@ -44,7 +44,6 @@ config files for:
 # todo
 
 - split hyprland stuf into modules
-- ly login manager config
 - btop config
 - tmux config
 - nvim config
