@@ -5,10 +5,11 @@ my hyprland configuration :p (p.s ignore the mess.)
 
 - alacritty
 - fastfetch
+- hypridle
 - hyprland
 - hyprlock
 - kew
-- mako (broken i think .)
+- mako
 - matugen
 - waybar
 
