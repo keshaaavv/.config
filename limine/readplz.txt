@@ -8,7 +8,7 @@ ANYWHO:
 make sure u put limine.conf in your boot directory.
 
 eg;
-/boot/EFI/limine.conf or /boot/limine.conf
+/boot/EFI/limine.conf or /boot/limine/limine.conf
 
 u can check by doing
 
