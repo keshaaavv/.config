@@ -49,5 +49,6 @@ config files for:
 
 - fastfetch dotfiles from omarchy (bleh)
 - hyprland animations from HyDE project
+- original dmenu-style rofi theme by qball
 
 ## if u like my dots plz star :] ty
