@@ -1,6 +1,6 @@
 # my hyprland configuration :p
 
-.config files for:
+config files for:
 
 - alacritty
 - fastfetch
