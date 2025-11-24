@@ -1,0 +1,24 @@
+# Material You colors
+
+font=Ark Pixel 16px M ja 12
+
+background-color=#000000
+text-color=#ffb2bd
+border-color=#561d29
+text-alignment=center
+ignore-timeout=1
+default-timeout=5000
+max-visible=2
+anchor=top-center
+border-size= 3
+# Per-mode settings
+
+[mode=do-not-disturb]
+invisible=1
+on-notify=none
+
+[mode=silent]
+on-notify=none
+
+[urgency=high]
+border-color=#93000a
