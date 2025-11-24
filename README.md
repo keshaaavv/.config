@@ -1,3 +1,7 @@
+![alt text](https://raw.githubusercontent.com/keshaaavv/dotfiles/refs/heads/main/image.webp "showing rofi, alacritty, fastfetch, mako, kew, waybar & a little bit of hyprland")
+
+
+
 # my hyprland configuration :p
 
 config files for:
