@@ -1,0 +1,17 @@
+hay limine user.
+make sure u werent like me and make sure ur drive is formatted to btrfs.
+i didnt. so now i cant use snapper.
+and im too lazy to reset.
+
+ANYWHO:
+
+make sure u put limine.conf in your boot directory.
+
+eg;
+/boot/EFI/limine.conf or /boot/limine.conf
+
+u can check by doing
+
+- cd /boot
+- ls      # check for anything limine related, if its a folder cd into it and do ls again.
+
