@@ -23,7 +23,7 @@ config files for:
 
 # usage:
 
-1. make sure all dependencies are installed *(including the font - `yay -S  ark-pixel-font`)*
+1. make sure all dependencies are installed ***(including the font - `yay -S  ark-pixel-font`)***
 3. if you have git, you can do `git clone https://github.com/keshaaavv/dotfiles` to clone the repo.
 4. drag and drop into home directory (`cd ~`)
 5. tweak keybinds/settings in `~/.config/hypr/hyprland.conf` to ur liking
