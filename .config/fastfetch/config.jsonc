@@ -72,7 +72,7 @@
       "type": "command",
       "key": "│ ├distro",
       "keyColor": "cyan",
-      "text": "branch=$(omarchy-version-branch); echo \"Arch\""
+      "text": "branch=$(omarchy-version-branch); echo \"Gentoo\""
     },
     {
       "type": "wm",
@@ -116,13 +116,13 @@
     },
     {
       "type": "command",
-      "key": "  age",
+      "key": "├¬ age",
       "keyColor": "blue",
       "text": "birth_install=$(stat -c %W /); current=$(date +%s); time_progression=$((current - birth_install)); days_difference=$((time_progression / 86400)); echo $days_difference days"
     },
     {
       "type": "uptime",
-      "key": "  uptime",
+      "key": "└¬ uptime",
       "keyColor": "blue"
     },
     {

@@ -1,8 +1,3 @@
-/**
- * fork of rofi dmenu theme
- * User: qball / tweaked by keshaaavv
- */
-
 * {
     primary: #ffb2bd;
     primary-fixed: #ffd9dd;
@@ -39,7 +34,6 @@
     outline-variant: #524345;
     shadow: #000000;
     scrim: #000000;
-    source-color: #632633; 
     inverse-surface: #f0dee0;
     inverse-on-surface: #382e2f;
     inverse-primary: #8e4956;
@@ -50,42 +44,4 @@
     surface-container: #261d1e;
     surface-container-high: #312829;
     surface-container-highest: #3d3233;
-    
-    background-color:      @scrim;
-    border-color:         @source-color;
-    text-color:           @source-color; 
-    font:            "Ark Pixel 16px M ja 16px";
-}
-window {
-    anchor:     north;
-    location:   north;
-    width:      50%;
-    padding:    7px;
-    children:   [ horibox ];
-    border: 1px; 
-}
-horibox {
-    orientation: horizontal;
-    children:   [ prompt, entry, listview ];
-}
-listview {
-    layout:     horizontal;
-    spacing:    5px;
-    lines:      100;
-}
-entry {
-    expand:     false;
-    width:      10em;
-}
-element {
-    padding: 0px 2px;
-}
-element selected {
-    background-color: @scrim;
-    text-color:  @primary;
-}
-
-element-text, element-icon {
-  background-color: inherit;
-  text-color: inherit;
 }

@@ -6,19 +6,19 @@ background-color=#000000
 text-color=#ffb2bd
 border-color=#561d29
 text-alignment=center
-ignore-timeout=1
-default-timeout=5000
-max-visible=2
-anchor=top-center
-border-size= 3
+ignore-timeout=0
+default-timeout=2000
+max-visible=3
+anchor=top-right
+border-size=1
+border-radius=3
 # Per-mode settings
 
 [mode=do-not-disturb]
 invisible=1
-on-notify=none
 
-[mode=silent]
-on-notify=none
+[mode=default]
+invisible=0
 
 [urgency=high]
 border-color=#93000a
